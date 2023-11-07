@@ -1,6 +1,6 @@
 Codeforces question link : https://codeforces.com/contest/1344/problem/A
 
-Here an array of n integers is given and then every guest currently in room k is moved to room k+akmodn.
+Here an array of n integers is given and then every guest currently in room k is moved to room ```k+ a subcript kmodn```.
 The problem here is exactely one guest must be assigned to each room with no vacancies.
 
 Theme of the question: We have to check if the given array makes a complete residue system with respect of n. In easy words all the remainders must be different. 
