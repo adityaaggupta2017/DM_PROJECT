@@ -7,8 +7,8 @@ https://en.wikipedia.org/wiki/David_Hilbert
 https://studiousguy.com/david-hilberts-contributions-in-mathematics/
 
 Abstract and Introduction:
-https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel
-https://plus.maths.org/content/hilberts-hotel
+https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel          
+https://plus.maths.org/content/hilberts-hotel          
 https://owlcation.com/stem/Hilberts-Paradox-of-the-Grand-Hotel-Another-Look-at-Infinity
 
 
