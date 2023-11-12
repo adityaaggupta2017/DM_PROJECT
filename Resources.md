@@ -16,4 +16,7 @@ https://plus.maths.org/content/hilberts-hotel
 https://owlcation.com/stem/Hilberts-Paradox-of-the-Grand-Hotel-Another-Look-at-Infinity        
 https://www.youtube.com/watch?v=OxGsU8oIWjY
 
+Exisiting Resources:                             
+https://en.wikipedia.org/wiki/Georg_Cantor                     
+https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article
 
