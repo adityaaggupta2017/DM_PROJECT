@@ -1,5 +1,6 @@
 Link of the coding problems:         
-https://projecteuler.net/problem=359
+https://projecteuler.net/problem=359        
+https://codeforces.com/contest/1344/problem/A
 
 Latest developments:                                  
 https://ijrpr.com/uploads/V4ISSUE3/IJRPR10757.pdf
