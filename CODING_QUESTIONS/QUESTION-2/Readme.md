@@ -12,3 +12,7 @@ The logical reasoning behind this step is that each guest is moved to a new room
 2. We have then stored the remainder of all the elements when divided by n in that array. Since in step 2 guests are moved to rooms with numbers greater than n. So to ensure that the room number is within the range, we take the remainder when divided by n.
 
 3. Then we made a hashset and added all the elements of that array. By making a hashset we check for duplicates. If no duplicates are found, that means all guests are again in different rooms are reallocation and our answer in this case is YES.
+
+```STEPS TO RUN THE CODE```:
+1) if using an IDE simply run the java code after making a java file .
+2) if using terminal use javac  file_name
