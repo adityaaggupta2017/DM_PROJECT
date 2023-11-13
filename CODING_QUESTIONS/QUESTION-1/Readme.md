@@ -77,3 +77,7 @@ Last 8 digits are:
 
 This is how we can solve some of the difficult questions with help of maths platforms and pattern findings .    
 
+
+STEPS TO RUN THE CODE:
+1) if using an IDE simply run the java code after making a java file .
+2) if using terminal use javac  file_name
